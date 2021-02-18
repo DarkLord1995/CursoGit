@@ -1,0 +1,11 @@
+git status -s:  sirve para ver el estado de los archivos si estos han sido llevado al area de ensayo(seguimiento)
+                o no.
+
+git commit - m "": Sirve para sacar una instantanea de un archivo y colocarle una descripcion
+
+git log --oneline: Muestra los commit realizados con sus datos correspondietes
+
+git add nombre del archivo:           sirve para llevar a la area de ensayo un archivo 
+git add .        :  sirve para llevar al area de ensayo todo el proyecto
+
+git reset --hard codigo de la instantanea a la que queremos regresar 
